@@ -6,5 +6,5 @@
 
 - 참고자료 (colab) : https://github.com/ShinJM-maker/AI_practice/blob/main/Colab.pdf
 
-- https://github.com/taeminlee/ai_practice/blob/main/Colab.pdf
+- https://github.com/ShinJM-maker/AI_practice/blob/main/Colab.pdf
 
