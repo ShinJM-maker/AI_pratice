@@ -5,6 +5,3 @@
   - 구글 계정 로그인 필요합니다.
 
 - 참고자료 (colab) : https://github.com/ShinJM-maker/AI_practice/blob/main/Colab.pdf
-
-- https://github.com/ShinJM-maker/AI_practice/blob/main/Colab.pdf
-
